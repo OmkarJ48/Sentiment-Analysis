@@ -1,0 +1,85 @@
+text,label
+"I really enjoyed the car, excellent experience overall.",positive
+"I really enjoyed the vacation, excellent experience overall.",positive
+The movie is 45 minutes long.,neutral
+"Best course I've had in years, absolutely excellent.",positive
+"Worst software update I've had in years, absolutely dreadful.",negative
+"Would not recommend the hotel room, it was horrible.",negative
+"The book was updated yesterday, nothing more to add.",neutral
+"I really enjoyed the flight, wonderful experience overall.",positive
+"The car was outstanding, I loved every part of it.",positive
+"Highly recommend the course, it was wonderful.",positive
+"According to the listing, the concert was released last month.",neutral
+"What a disappointing phone, I would never do that again.",negative
+"What a wonderful flight, I would do it again in a heartbeat.",positive
+"Worst haircut I've had in years, absolutely disappointing.",negative
+"The restaurant has a two year warranty, nothing more to add.",neutral
+"The app was useless, I regret it completely.",negative
+"According to the listing, the customer service was scheduled for 3pm.",neutral
+"Best vacation I've had in years, absolutely superb.",positive
+"Worst car I've had in years, absolutely useless.",negative
+"According to the listing, the delivery was scheduled for 3pm.",neutral
+"Software update fell short of my expectations, truly poor.",negative
+"The headphones arrived on Tuesday, nothing more to add.",neutral
+"Course fell short of my expectations, truly disappointing.",negative
+"What a disappointing meal, I would never do that again.",negative
+"I really disliked the book, frustrating experience overall.",negative
+"What a fantastic meal, I would do it again in a heartbeat.",positive
+"Worst meal I've had in years, absolutely horrible.",negative
+"For reference, the app is 45 minutes long.",neutral
+"For reference, the course arrived on Tuesday.",neutral
+"The customer service was not good at all, honestly dreadful.",negative
+"The restaurant was not bad at all, actually quite superb.",positive
+"The product was poor, I regret it completely.",negative
+"For reference, the meal is located downtown.",neutral
+"The movie was fantastic, I loved every part of it.",positive
+"The haircut was not good at all, honestly terrible.",negative
+"Would not recommend the app, it was disappointing.",negative
+I can't stop thinking about how delightful the meal was.,positive
+"I really disliked the headphones, poor experience overall.",negative
+"I don't think the laptop was worth it, quite dreadful.",negative
+"I don't think the vacation was worth it, quite frustrating.",negative
+"The concert was dreadful, I regret it completely.",negative
+"Best car I've had in years, absolutely amazing.",positive
+"Highly recommend the game, it was delightful.",positive
+"Best haircut I've had in years, absolutely wonderful.",positive
+"Worst flight I've had in years, absolutely terrible.",negative
+"According to the listing, the book ships from the east coast.",neutral
+Note that the headphones is 45 minutes long.,neutral
+"The flight was great, I loved every part of it.",positive
+"The car was terrible, I regret it completely.",negative
+"Laptop fell short of my expectations, truly frustrating.",negative
+"Worst customer service I've had in years, absolutely horrible.",negative
+"What a delightful app, I would do it again in a heartbeat.",positive
+"Highly recommend the movie, it was excellent.",positive
+"Highly recommend the meal, it was brilliant.",positive
+"The haircut has a two year warranty, nothing more to add.",neutral
+"The product was impressive, I loved every part of it.",positive
+"Course exceeded my expectations, truly impressive.",positive
+"What a horrible flight, I would never do that again.",negative
+"I really disliked the delivery, disappointing experience overall.",negative
+"The game was scheduled for 3pm, nothing more to add.",neutral
+"I really enjoyed the game, outstanding experience overall.",positive
+"Software update exceeded my expectations, truly fantastic.",positive
+"The concert runs on batteries, nothing more to add.",neutral
+"For reference, the car was scheduled for 3pm.",neutral
+"I really enjoyed the movie, amazing experience overall.",positive
+"Best concert I've had in years, absolutely impressive.",positive
+"The software update was not good at all, honestly useless.",negative
+"What a brilliant haircut, I would do it again in a heartbeat.",positive
+"I really enjoyed the software update, superb experience overall.",positive
+"The phone was not bad at all, actually quite brilliant.",positive
+Note that the hotel room was updated yesterday.,neutral
+"The flight runs on batteries, nothing more to add.",neutral
+I can't stop thinking about how delightful the course was.,positive
+"Flight fell short of my expectations, truly disappointing.",negative
+"I don't think the headphones was worth it, quite awful.",negative
+The restaurant was released last month.,neutral
+"Book fell short of my expectations, truly terrible.",negative
+"Highly recommend the delivery, it was brilliant.",positive
+"The course was frustrating, I regret it completely.",negative
+"Flight exceeded my expectations, truly excellent.",positive
+"Best customer service I've had in years, absolutely fantastic.",positive
+"I don't think the haircut was worth it, quite mediocre.",negative
+"According to the listing, the haircut was scheduled for 3pm.",neutral
+"Movie fell short of my expectations, truly poor.",negative
