@@ -48,7 +48,9 @@ data/
 
 app_streamlit.py            # the UI — talks to sentiment/ only through analyzer.py
 tests/                      # pytest suite for schema, preprocessing, both backends
-legacy/                     # original Tkinter/VADER prototype, kept for reference
+legacy/                     # original Tkinter/VADER prototype + old code archive, kept for reference
+docs/                       # background research/design material (pre-dates this rebuild)
+  diagrams/                  # DFDs, activity/schema diagrams, flowcharts
 ```
 
 ## Why two backends
@@ -121,5 +123,15 @@ skip gracefully if `train_sklearn.py` hasn't been run yet.
 `legacy/` holds the original standalone scripts this project started as: a
 Tkinter GUI (`app.py`) wrapping VADER directly, plus assorted experiments
 (`OLDCODE.py`, `trial.py`, `sentimentchatbot.py`,
-`Voice_based_Sentiment_Analysis.py`, etc.). They're kept for reference but
-are superseded by `sentiment/` + `app_streamlit.py` above.
+`Voice_based_Sentiment_Analysis.py`, etc.) and the original `Sentiment
+Code.zip` archive. They're kept for reference but are superseded by
+`sentiment/` + `app_streamlit.py` above.
+
+## Background material
+
+`docs/` holds pre-rebuild research and design artifacts: the original
+requirements/analysis paper (`IJSRCSEIT_Sentiment Analysis Paper.docx`), a
+reference Colab notebook export, a review spreadsheet, and
+`docs/diagrams/` (DFDs, activity diagram, schema diagram, flowchart). These
+describe the project's original design intent, not the current
+implementation above.
